@@ -1,0 +1,5 @@
+JARVIS_OS_FIFO.c:11:13:FIFO_init	24	static
+JARVIS_OS_FIFO.c:31:13:FIFO_enqueue	16	static
+JARVIS_OS_FIFO.c:63:13:FIFO_dequeue	16	static
+JARVIS_OS_FIFO.c:92:13:FIFO_is_full	16	static
+JARVIS_OS_FIFO.c:107:13:FIFO_is_empty	16	static

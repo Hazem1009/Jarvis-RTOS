@@ -1,0 +1,7 @@
+"JARVIS/CortexMX_OS_Porting.o"
+"JARVIS/JARVIS_OS_FIFO.o"
+"JARVIS/schedular.o"
+"Src/main.o"
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f103c8tx.o"
